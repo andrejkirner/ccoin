@@ -1,2 +1,1 @@
 # ccoin
-Prirpava za ccoin
